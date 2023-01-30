@@ -43,7 +43,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
 
-        <jackson.version>2.4.0</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
         <jaxb-api.version>2.2.11</jaxb-api.version>
 
         <swagger2.version>2.6.0</swagger2.version>
